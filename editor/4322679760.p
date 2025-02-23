@@ -1,0 +1,3 @@
+DECLARE str : STRING
+INPUT str
+OUTPUT str
